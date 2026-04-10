@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="LINK_BANNER_GIF_HOAC_ANH" alt="banner" width="90%" />
+  ![Uploading giphy.gif…]()
 </p>
 
 <h2 align="center">| Time flies, enjoy life |</h2>
